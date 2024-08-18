@@ -1,0 +1,30 @@
+/* SearchBar.css */
+.input-group {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.form-control {
+	width: 100%;
+	padding: 0.58rem;
+	border: 1px solid #ced4da;
+	border-radius: 0.85rem;
+	outline: none;
+	width: 30%;
+	justify-content: center;
+}
+
+.input-group-append {
+	display: flex;
+}
+
+.input-group-text {
+	padding: 0.5rem;
+	background-color: #e9ecef;
+	border: 1px solid #ced4da;
+	cursor: pointer;
+	border-radius: 0.25rem;
+	margin-left: -1px;
+	
+}

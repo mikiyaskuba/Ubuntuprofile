@@ -1,0 +1,16 @@
+aside {
+	background-color: #4e4a4a;
+	color: white;
+
+	font-family: "Ubuntu", sans-serif;
+}
+ul {
+	padding-left: 0;
+	line-height: 2rem;
+	
+}
+aside ul li {
+	list-style: none;
+	padding-top: 10px;
+    padding-left: 10px;
+}
